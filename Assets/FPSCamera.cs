@@ -8,11 +8,11 @@ public class FPSCamera : MonoBehaviour {
 	private float rotationX = 0;
 	private float rotationY = 0;
 
-	public float sensitivityX = 2;
-	public float sensitivityY = 2;
+	public float sensitivityX = 1;
+	public float sensitivityY = 1;
 
-	public float defaultSensX = 2;
-	public float defaultSensY = 2;
+	public float defaultSensX = 12;
+	public float defaultSensY = 12;
 
 	private Quaternion xQuaternion;
 	private Quaternion yQuaternion;
@@ -21,8 +21,8 @@ public class FPSCamera : MonoBehaviour {
 	public float minimumY = -80;
 	public float maximumY = 80;
 
-	public int frameCounterX = 1005;
-	public int frameCounterY = 1005;
+	public int frameCounterX = 12;
+	public int frameCounterY = 12;
 
 	public int delayX = 2;
 	public int delayY = 2;

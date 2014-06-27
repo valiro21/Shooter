@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WayPoint.cs">
+    <Files>
+      <File FileName="Assets\Core\GameManager.cs" Line="51" Column="26" />
+      <File FileName="Assets\WayPoint.cs" Line="158" Column="23" />
+      <File FileName="Assets\AIWalker.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Documents and Settings\elev\My Documents\Shooter-master\Assets\AIWalker.cs" line="27" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
